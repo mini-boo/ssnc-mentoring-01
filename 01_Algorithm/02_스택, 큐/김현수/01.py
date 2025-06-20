@@ -1,5 +1,4 @@
 def solution(arr):
-    seen = set()
     answer = []
 
     for i in range(len(arr)):
